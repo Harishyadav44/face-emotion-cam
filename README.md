@@ -61,7 +61,12 @@ streamlit run app.py
 
 📊 Output
 
-Detected faces with emotion labels
+Detected faces with emotion labels such as:
+- Happy
+- Sad
+- Angry
+- Surprise
+- Neutral
 
 Emotion probability table
 
