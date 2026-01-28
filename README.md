@@ -1,3 +1,4 @@
+![Demo](demo.png)
 # Face Emotion Recognition App 🎭
 
 A real-time face emotion recognition web application built using **Python, Streamlit, OpenCV, and DeepFace**.  
