@@ -1,4 +1,3 @@
-![Demo](demo.png)
 # Face Emotion Recognition App 🎭
 
 A real-time face emotion recognition web application built using **Python, Streamlit, OpenCV, and DeepFace**.  
@@ -80,4 +79,4 @@ Harish Kumar
 Computer Science Student
 Python • Machine Learning • Computer Vision
 
-LinkedIn: https://www.linkedin.com/in/harish-yadav-3b18b9253/
+LinkedIn: https://www.linkedin.com/in/harish-kumar-3b18b9253/
